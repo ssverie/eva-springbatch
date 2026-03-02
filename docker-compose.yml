@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: eva-postgres
+    environment:
+      POSTGRES_DB: evadb
+      POSTGRES_USER: evauser
+      POSTGRES_PASSWORD: Test123
+      POSTGRES_INITDB_ARGS: "--auth-host=scram-sha-256 --auth-local=trust"
+    ports:
+      - "5432:5432"
+    volumes:
+      - eva_pgdata:/var/lib/postgresql/data
+
+volumes:
+  eva_pgdata:

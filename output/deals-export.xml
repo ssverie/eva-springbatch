@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><deals>
+  <deal>
+    <amount>5000.00</amount>
+    <category>TRADE</category>
+    <currency>EUR</currency>
+    <customerName>Mueller GmbH</customerName>
+    <dealDate/>
+    <dealNumber>DB-001</dealNumber>
+    <riskLevel>LOW</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>15000.00</amount>
+    <category>LOAN</category>
+    <currency>EUR</currency>
+    <customerName>Schmidt AG</customerName>
+    <dealDate/>
+    <dealNumber>DB-002</dealNumber>
+    <riskLevel>HIGH</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>25000.00</amount>
+    <category>LOAN</category>
+    <currency>USD</currency>
+    <customerName>Fischer Ltd</customerName>
+    <dealDate/>
+    <dealNumber>DB-005</dealNumber>
+    <riskLevel>HIGH</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>800.00</amount>
+    <category>TRADE</category>
+    <currency>EUR</currency>
+    <customerName>Bauer GmbH</customerName>
+    <dealDate/>
+    <dealNumber>DB-006</dealNumber>
+    <riskLevel>LOW</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>50000.00</amount>
+    <category>LOAN</category>
+    <currency>USD</currency>
+    <customerName>Richter GmbH</customerName>
+    <dealDate/>
+    <dealNumber>DB-009</dealNumber>
+    <riskLevel>HIGH</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>150.00</amount>
+    <category>TRADE</category>
+    <currency>EUR</currency>
+    <customerName>Klein GmbH</customerName>
+    <dealDate/>
+    <dealNumber>DB-010</dealNumber>
+    <riskLevel>LOW</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>7500.00</amount>
+    <category>TRADE</category>
+    <currency>EUR</currency>
+    <customerName>Hoffmann AG</customerName>
+    <dealDate/>
+    <dealNumber>CSV-001</dealNumber>
+    <riskLevel>LOW</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>18000.00</amount>
+    <category>LOAN</category>
+    <currency>EUR</currency>
+    <customerName>Schulz GmbH</customerName>
+    <dealDate/>
+    <dealNumber>CSV-002</dealNumber>
+    <riskLevel>HIGH</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>32000.00</amount>
+    <category>TRADE</category>
+    <currency>EUR</currency>
+    <customerName>Schwarz Ltd</customerName>
+    <dealDate/>
+    <dealNumber>CSV-005</dealNumber>
+    <riskLevel>HIGH</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>600.00</amount>
+    <category>TRADE</category>
+    <currency>EUR</currency>
+    <customerName>Zimmermann GmbH</customerName>
+    <dealDate/>
+    <dealNumber>CSV-006</dealNumber>
+    <riskLevel>LOW</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>11000.00</amount>
+    <category>LOAN</category>
+    <currency>USD</currency>
+    <customerName>Krause AG</customerName>
+    <dealDate/>
+    <dealNumber>CSV-007</dealNumber>
+    <riskLevel>HIGH</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+  <deal>
+    <amount>200.00</amount>
+    <category>TRADE</category>
+    <currency>EUR</currency>
+    <customerName>Meier KG</customerName>
+    <dealDate/>
+    <dealNumber>CSV-010</dealNumber>
+    <riskLevel>LOW</riskLevel>
+    <status>PROCESSED</status>
+  </deal>
+</deals>
